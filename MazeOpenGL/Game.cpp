@@ -81,10 +81,6 @@ void Game::Update(float dt)
 }
 
 
-
-
-
-
 void Game::processPlayer(float dt)
 {
 
