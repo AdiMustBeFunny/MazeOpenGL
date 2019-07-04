@@ -19,7 +19,7 @@ Add glfw3.lib and opengl32.lib to Input in Linker Tab
 
 In Visiual Studio do:  Project -> Retarget solution
 
-##Additional Info
+## Additional Info
 
 Some parts of the engine are derived from OpenGL tutorials
 made by Joey de Vries. Check them out at https://learnopengl.com/In-Practice/2D-Game/Breakout
